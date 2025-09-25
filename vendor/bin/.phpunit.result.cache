@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ContaBancoTest::testClassificacaoSaldo":8},"times":{"ContaBancoTest::testDeposito":0.008,"ContaBancoTest::testSaque":0,"ContaBancoTest::testSaldoNegativo":0,"ContaBancoTest::testClassificacaoSaldo":0}}
